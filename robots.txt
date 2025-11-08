@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://systemintegrationz.de/sitemap.xml
